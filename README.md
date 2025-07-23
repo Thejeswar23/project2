@@ -1,4 +1,4 @@
 # New Project
 
 created from local repository.
-created by Thejeswar Reddy
+created by Thejeswar Reddy.
